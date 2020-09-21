@@ -101,3 +101,8 @@ http://localhost:8000/viewer 로 접속하면 지금까지 서버에서 수행�
 ## 문의
 
 - 하광성 (jesse.ha@kakaocorp.com)
+
+
+## 추가한 코드
+2.py 실행 결과
+![Recordit GIF](http://g.recordit.co/Dgr1xt3Y33.gif)
