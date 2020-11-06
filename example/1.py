@@ -170,10 +170,6 @@ def p0_simulator():
                     else:
                         ele = elevator["id"]
                         distance = abs(floor - call["start"])
-                # elif distance == abs(floor - call["start"]):
-                #     if ele in controller:
-                #         if elevator["id"] not in controller or len(controller[elevator["id"]]) < len(controller[ele]):
-                #             ele = elevator["id"]
 
             if ele != None:
                 if ele not in controller:
